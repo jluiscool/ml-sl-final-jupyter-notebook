@@ -6,3 +6,6 @@ This dataset comes from the abracadabra project: https://github.com/DevDope/Abra
 
 You can watch the video explanation here:
 https://www.youtube.com/watch?v=qS68krAdkWY
+
+On Kaggle:
+https://www.kaggle.com/code/joseapp/song-popularity-using-random-forests
